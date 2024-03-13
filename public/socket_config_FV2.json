@@ -1,0 +1,13 @@
+{
+
+"port":"22053/fishv2",
+
+"host":"demo.example.ru",
+"prefix":"https://",
+
+"host_ws":"demo.example.ru",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
